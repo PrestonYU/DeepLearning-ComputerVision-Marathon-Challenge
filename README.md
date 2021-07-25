@@ -1,5 +1,4 @@
 # 第一屆深度學習(Deep Learning)與電腦視覺(Computer Vision)馬拉松
-## 1st-DL-CVMarathon
 
 ### 基礎影像處理
 學習影像處理基礎，並熟悉 OpenCV 寫作方式以及如何前處理<br>
