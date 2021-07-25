@@ -14,7 +14,7 @@
 8.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day008_sobel_gaussian_blur_HW.ipynb'>Filter 操作 (Sobel edge detect, Gaussian Blur)</a>:  初探邊緣檢測與模糊圖片操作: 了解 filter 的運用<br>
 9.SIFT 介紹與實作 (feature extractor):  SIFT: 介紹與實作經典的傳統特徵<br>
 10.SIFT 其他應用 (keypoint matching):  SIFT 案例分享: 特徵配對<br>
-<br><br>
+<br>
 
 ### 電腦視覺深度學習基礎
 打好卷積神經網路的概念，並了解 CNN 各種代表性的經典模型<br><br>
@@ -31,7 +31,7 @@
 20.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day020_Classic%2BCNN-ResNet%E3%80%81InceptionV4%E3%80%81Inception-ResNet_HW.ipynb'>ResNetV1-V2、InceptionV4、Inception-ResNet</a>:  首次超越人類分類正確率的模型，Residual module也影響了後來許多的模型架構<br>
 21.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day021_Transfer%2BLearning_HW.ipynb'>Transfer learning</a>:  學習如何利用前人的知識輔助自己訓練與跨領域學習的方法<br>
 22.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day022_Captcha_HW.ipynb'>Breaking Captchas with a CNN</a>:  了解如何使用CNN+CTC判定不定長度字串<br>
-<br><br>
+<br>
 
 ### CNN 應用案例學習
 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務完全上手<br><br>
@@ -44,7 +44,7 @@
 27.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day027_BBOX%2BRegression_HW.ipynb'>Bounding Box Regression原理</a>:  所有的Object Detection模型都需要做Bounding Box的Regression，了解其是如何運作的能幫助我們更認識Object Detection<br>
 28.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day028_NMS_HW.ipynb'>Non-Maximum Suppression (NMS)原理</a>:  所有的Object Detection模型都有Non Maximum Suppression的操作，了解其是如何運作的能幫助我們更認識Object Detection<br>
 29.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/tree/master/homework/Day029-031_Object%20Detection%20%E7%A8%8B%E5%BC%8F%E5%B0%8E%E8%AE%80_HW'>程式導讀、實作</a>:  了解如何搭建一個SSD模型<br>
-<br>
+
 
 #### YOLO
 32.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day32_yolo_prediction_HW.ipynb'>YOLO 簡介及算法理解</a>:  了解 YOLO 的基本原理<br>
@@ -57,7 +57,7 @@
 39.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day39_yolov3_keras_HW.ipynb'>使用 YOLOv3 偵測圖片及影片中的物件</a>:  了解如何基於現有的 YOLOv3 程式碼客制化自己的需求<br>
 40.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day40_tiny_yolov3_keras_HW.ipynb'>更快的檢測模型 - tiny YOLOv3</a>:  了解如何使用 tiny YOLOv3 來滿足對檢測速度的需求<br>
 41.<a href='https://github.com/PrestonYU/1st-DL-CVMarathon/blob/master/homework/Day41_train_yolov3_HW.ipynb'>訓練 YOLOv3</a>:  了解如何訓練 YOLOv3 檢測模型<br>
-<br><br>
+<br>
 
 ### 電腦視覺深度學習實戰
 人臉關鍵點檢測及其應用<br><br>
